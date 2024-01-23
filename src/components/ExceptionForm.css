@@ -1,0 +1,12 @@
+.exception-form {
+  margin: 1em;
+}
+
+.exception-form div {
+  margin-bottom: 1em;
+}
+
+.exception-form label {
+  display: inline-block;
+  width: 100px;
+}

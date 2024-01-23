@@ -1,0 +1,52 @@
+{
+  "huone": "5A101",
+  "kategoria": [
+    {
+      "nimi":"Työskentely",
+      "havainto": [
+        {
+          "nimi":"Suojaimet, vaatetus, riskinotto",
+          "kunnossa": 2,
+          "poikkeamat": [
+            {
+              "toimenpide":"",
+              "vastuutaho":"",
+              "kiirellisyys":"",
+              "kuvat":[]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nimi":"Ergonomia",
+      "havainto": [
+        {
+          "nimi":"Fyysinen kuormitus",
+          "kunnossa": 2,
+          "poikkeamat": [
+            {
+              "toimenpide":"",
+              "vastuutaho":"",
+              "kiirellisyys":"",
+              "kuvat":[]
+            }
+          ]
+        },
+        {
+          "nimi":"Työpisteen ja välineiden ergonomia",
+          "kunnossa": 2,
+          "poikkeamat": [
+            {
+              "toimenpide":"",
+              "vastuutaho":"",
+              "kiirellisyys":"",
+              "kuvat": []
+            }
+          ]
+        }
+      ]
+    }
+    
+  ]
+}
